@@ -195,7 +195,7 @@ $(document).ready(function() {
         //console.log(gameStatus);
 
         console.log(gameStatus)
-        if(gameStatus == 'n') {
+        if(gameStatus == 'play') {
             console.log("i am here")
         	initGame();
         }
