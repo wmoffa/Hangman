@@ -19,7 +19,7 @@ $(document).ready(function() {
 		var charsUsed = "";
 		var displayStage;
 		var maxAttempts = 0;
-		var gameStatus   = "play";
+		var gameStatus   = "n";
 
 		var artists      = ["JEFFERSON AIRPLANE",
                             "JETRO TULL",
@@ -40,7 +40,7 @@ $(document).ready(function() {
 		var gameNo       = 6;
 		var artistsName;
 		var openSelection;
-        var alertFlag = 0;
+        	var alertFlag = 0;
 		var previousStatus;
 		var letterUsed = "";
 		var letterFound = "";
