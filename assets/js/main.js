@@ -1,15 +1,3 @@
-// instructor note:
-
-// I had one hell of a time with the confirm and alerts. Seems that the last js line prior to
-// the confirms and alerts were not executing. I researched this and the seems to be happening
-// but there was no solution.
-
-// Also the jquery .hide and .empty were not working and I am not sure why, but I solved this problem
-// with a work around. 
-
-// one of the tools I really needed was a way to pause for a prompt - I originally used the confirm, but
-// as I stated above, it caused other problems
-
 
 
 
