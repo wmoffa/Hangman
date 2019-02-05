@@ -4,7 +4,7 @@ Popular word game now digitized with a rock and roll touch
 
 # [Try it out!](https://piktel.net.Hangman/)
 
-![image](./assets/hangman.png)
+![image](./assets/Hangman.png)
 
 ## Using
 Game starts as soon as it is loaded - a hint will appear at the upper left side of the screen - enter the letters that will solve the game
